@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Try out Sechs!</string>
+    <string name="app_name">Sechs</string>
+    <string name="button1">Send RECORD</string>
+    <string name="button2">Send ARCHIVE</string>
+
+</resources>
